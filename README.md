@@ -9,7 +9,7 @@ Sou um profissional focado em Análise de Dados e Business Intelligence, com exp
 
 ## 📁 Meus Projetos em Destaque
 
-1. 📊 [Análise Internacional de Churn Rate (Financeiro)](../Dashboard-financeiro) - Cruzamento de dados demográficos com métricas de receita perdida.
-2. 📊 [Inteligência Comercial e Performance de Funil (Comercial)](../Dashboard-Comercial) - Gerenciamento de pipeline, oportunidades e Win Rate %. *(Registro Histórico)*
-3. 📊 [Análise Geográfica e Volumetria de Pedidos (Vendas)](../Dashboard-Analise-Geogr-fica) - Mapeamento de captação de clientes e vazão logística por estados.
-4. 📊 [People Analytics e Clima Organizacional (RH)](../Dashboard-RH) - Consolidação de pesquisas internas de engajamento e satisfação por departamento.
+1. 📊 [Análise Internacional de Churn Rate (Financeiro)](https://github.com/gu2004soares-dotcom/Dashboard-financeiro) - Cruzamento de dados demográficos com métricas de receita perdida.
+2. 📊 [Inteligência Comercial e Performance de Funil (Comercial)](https://github.com/gu2004soares-dotcom/Dashboard-Comercial) - Gerenciamento de pipeline, oportunidades e Win Rate %. *(Registro Histórico)*
+3. 📊 [Análise Geográfica e Volumetria de Pedidos (Vendas)](https://github.com/gu2004soares-dotcom/Dashboard-Analise-Geogr-fica) - Mapeamento de captação de clientes e vazão logística por estados.
+4. 📊 [People Analytics e Clima Organizacional (RH)](https://github.com/gu2004soares-dotcom/Dashboard-RH) - Consolidação de pesquisas internas de engajamento e satisfação por departamento.
