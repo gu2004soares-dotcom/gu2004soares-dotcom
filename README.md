@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Luiz Gustavo! 👋
 
-<!--
-**gu2004soares-dotcom/gu2004soares-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional focado em Análise de Dados e Business Intelligence, com experiência no desenvolvimento de soluções visuais e estratégicas para suporte a operações e tomada de decisão.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades Técnicas
+* **Power BI:** Modelagem de dados (Star Schema), tratamento e higienização com Power Query e criação de Dashboards dinâmicos.
+* **Fórmulas e Funções:** Criação de medidas calculadas aplicadas a regras de negócio corporativas.
+* **Excel:** Manipulação avançada de dados e relatórios de suporte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Meus Projetos em Destaque
+
+1. 📊 [Análise Internacional de Churn Rate (Financeiro)](../Dashboard-financeiro) - Cruzamento de dados demográficos com métricas de receita perdida.
+2. 📊 [Inteligência Comercial e Performance de Funil (Comercial)](../Dashboard-Comercial) - Gerenciamento de pipeline, oportunidades e Win Rate %. *(Registro Histórico)*
+3. 📊 [Análise Geográfica e Volumetria de Pedidos (Vendas)](../Dashboard-Analise-Geogr-fica) - Mapeamento de captação de clientes e vazão logística por estados.
+4. 📊 [People Analytics e Clima Organizacional (RH)](../Dashboard-RH) - Consolidação de pesquisas internas de engajamento e satisfação por departamento.
